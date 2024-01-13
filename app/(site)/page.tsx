@@ -17,7 +17,7 @@ export default async function Home() {
                 {data.headline}
               </h1>
               <p className="text-base text-zinc-400 leading-relaxed">
-                {data.shortBio}
+                { data.shortBio }
               </p>
               <ul className="flex items-center gap-x-6 my-10">
                 {Object.entries(data.socialLinks)

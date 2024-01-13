@@ -78,7 +78,7 @@ export default async function About() {
             <section className="mt-24 max-w-2xl">
               <h2 className="font-semibold text-4xl mb-4">Frameworks</h2>
               <p className="text-zinc-400 max-w-lg">
-                 The frameworks I've worked with and familiarized are the following:
+                 The frameworks I&apos;ve worked with and familiarized are the following:
               </p>
 
               <ul className="flex flex-wrap items-center gap-3 mt-8">
