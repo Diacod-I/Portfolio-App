@@ -12,7 +12,6 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Prepared by <span className="text-green-400">Victor Eke</span>
             </a>
           </small>
         </div>
