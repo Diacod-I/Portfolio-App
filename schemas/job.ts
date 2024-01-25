@@ -23,7 +23,7 @@ const job = {
     {
       name: "logo",
       title: "Company Logo",
-      type: "image",
+      type: HTMLImageElement,
       options: {hotspot: true}
     },
     {
