@@ -24,7 +24,7 @@ export type JobType = {
   _id: string,
   name: string,
   jobTitle: string,
-  logo: string,
+  logo: HTMLImageElement,
   url: string,
   description: string,
   startDate: Date,
