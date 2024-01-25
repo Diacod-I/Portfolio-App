@@ -9,7 +9,7 @@ export async function getProfile() {
       _id,
       fullName,
       headline,
-      profileImage {alt, "image": asset->url},
+      profileImage {alt, HTMLImageElement: asset->url},
       shortBio,
       location,
       fullBio,
